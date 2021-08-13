@@ -8,4 +8,4 @@ moveit_setup_assistant_config:
   CONFIG:
     author_name: Neobotix GmbH
     author_email: ros@neobotix.de
-    generated_timestamp: 1628687402
+    generated_timestamp: 1628869528
